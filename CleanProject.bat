@@ -1,0 +1,1 @@
+powershell -ExecutionPolicy Bypass -File Scripts/CleanProject.ps1
